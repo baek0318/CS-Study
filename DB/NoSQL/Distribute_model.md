@@ -1,4 +1,7 @@
 # 분산 모델
+>Author: 백승화  
+>Created: 2021년 8월 23일 오후 10:00  
+>Tags: Nosql, distribute
 
 ### NoSQL과 분산 모델
 - 수평확장과 수직확장  
